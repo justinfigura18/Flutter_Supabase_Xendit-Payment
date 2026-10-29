@@ -1,17 +1,17 @@
-# 🛒 BMC Finals E-Commerce App
+# BMC Finals E-Commerce App
 
 A mobile e-commerce application built with Flutter and Supabase.
 
 ---
 
-## 📱 Prerequisites
+## Prerequisites
 * [Flutter SDK](https://docs.flutter.dev/get-started/install) installed.
 * An IDE (VS Code or Android Studio).
 * An active emulator or physical Android device.
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
